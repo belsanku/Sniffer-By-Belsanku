@@ -1,0 +1,11 @@
+D:\Sniffer1\BelsankuSniffer\obj\Debug\BelsankuSniffer.Sniffer.resources
+D:\Sniffer1\BelsankuSniffer\obj\Debug\PacketAnalyzer.Properties.Resources.resources
+D:\Sniffer1\BelsankuSniffer\obj\Debug\BelsankuSniffer.csproj.GenerateResource.cache
+D:\Sniffer1\BelsankuSniffer\obj\Debug\BelsankuSniffer.csproj.CoreCompileInputs.cache
+D:\Sniffer1\BelsankuSniffer\obj\Debug\BelsankuSniffer.exe
+D:\Sniffer1\BelsankuSniffer\obj\Debug\BelsankuSniffer.pdb
+D:\Sniffer1\BelsankuSniffer\bin\Debug\BelsankuSniffer.exe.config
+D:\Sniffer1\BelsankuSniffer\bin\Debug\BelsankuSniffer.exe
+D:\Sniffer1\BelsankuSniffer\bin\Debug\BelsankuSniffer.pdb
+D:\Sniffer1\BelsankuSniffer\obj\Debug\BelsankuSniffer.csproj.AssemblyReference.cache
+D:\Sniffer1\BelsankuSniffer\obj\Debug\BelsankuSniffer.csproj.SuggestedBindingRedirects.cache
